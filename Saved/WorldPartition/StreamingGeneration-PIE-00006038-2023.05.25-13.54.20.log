@@ -1,0 +1,761 @@
+[+] Containers:
+ |- [+] Container: /Game/Level
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:03EB6B4F4F370629EF220C8F1F5EAD25 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118494208 Label:PaperclipFBX65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1606.270 Y=25589.898 Z=5472.857), Max=(X=-1562.627 Y=26055.392 Z=6802.397) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:046C6B6144ABDEA258007CB309A437A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465428237 Label:PaperclipFBX90 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3892.013 Y=14034.007 Z=5373.882), Max=(X=4970.539 Y=14087.734 Z=6604.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:06F3B08046A0868FD6E338A6E6AE5899 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1583635895 Label:PaperclipFBX15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6913.368 Y=29994.410 Z=5459.521), Max=(X=7463.289 Y=30040.180 Z=6800.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:073AA4554015EC4B7AEA13A9840BF115 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118496213 Label:PaperclipFBX70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.570 Y=14032.160 Z=5443.689), Max=(X=-1551.650 Y=14703.780 Z=6790.112) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:089EC8B74988F6D825DDFAB71FC7378A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118492206 Label:PaperclipFBX63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1606.230 Y=26941.164 Z=5488.203), Max=(X=-1563.774 Y=27289.235 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:08C6D1044F5942E9A6B60BBDF905779B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1929625911 Label:PaperclipFBX29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1606.994 Y=29994.406 Z=5488.203), Max=(X=-1258.542 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:0A065D184E62147489EB7EA454EC2231 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465436253 Label:PaperclipFBX106 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13285.489 Y=14047.847 Z=5477.688), Max=(X=13709.339 Y=14089.006 Z=6799.517) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:0D63DD324E7158627688428DFE7BC277 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118490203 Label:PaperclipFBX60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1601.230 Y=21832.636 Z=5488.206), Max=(X=-1558.774 Y=22180.707 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:0DCBB41241E18E6F26BB02A7884B4DD2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118475185 Label:PaperclipFBX42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1608.455 Y=29216.203 Z=5488.203), Max=(X=-1565.999 Y=29564.274 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:0E105A7C4853F308D0C417AD40533612 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281F17C01_1418607523 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1660.000 Y=14030.000 Z=-100.000), Max=(X=14340.000 Y=30030.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:0FCA87984954FA56677B4BB4F6CD6849 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819B8101_2090304671 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1660.000 Y=14030.000 Z=6873.026), Max=(X=14340.000 Y=30030.000 Z=6973.026) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:12A45E064BD9F7D2BAA13FBB2C750E71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1584814896 Label:PaperclipFBX16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6570.279 Y=29994.410 Z=5488.206), Max=(X=6918.732 Y=30040.179 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:1384781F488566526BA297B0D2D11EF5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118488200 Label:PaperclipFBX57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1598.724 Y=19272.372 Z=5488.207), Max=(X=-1556.268 Y=19620.443 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:13D59E8D4066147B45AFB6B2AAD1F16E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118467180 Label:PaperclipFBX37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4289.899 Y=27917.132 Z=-22.120), Max=(X=-3414.484 Y=28301.787 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:1518CC544D09B436D820739288169DF1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281568101_1424413521 Label:lowpolyBedfinal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11373.952 Y=24509.972 Z=-10.596), Max=(X=14308.663 Y=30026.875 Z=1541.461) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:15A1698E489C06A5A3533AADF7FD1C0B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1147516876 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14329.998 Y=21056.020 Z=-27.986), Max=(X=14429.998 Y=30131.020 Z=6972.014) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:167360A94C17AF3A2C7A5398B8EE0113 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1326142444 Label:JordanLymper_Thumbtack_v7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12064.170 Y=29479.686 Z=3279.999), Max=(X=12460.382 Y=30684.732 Z=3676.211) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:19F3F4E142BA87C300A1A0B9095278A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465428239 Label:PaperclipFBX92 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8749.187 Y=14046.511 Z=5488.208), Max=(X=9097.221 Y=14088.662 Z=6792.699) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:1B533EC5416A72365A8B9DA81E1AF972 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1589787902 Label:PaperclipFBX22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1389.379 Y=29994.407 Z=5462.933), Max=(X=1916.236 Y=30040.176 Z=6801.244) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:1CAB63334824B2AAE5C54E910298FD82 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1277320217 Label:WallFBX2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1693.717 Y=13959.950 Z=-44.688), Max=(X=-1593.843 Y=30080.617 Z=6946.508) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:1F54A75E496F5E23A8CD5BA1F725A39B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1750575907 Label:PaperclipFBX27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3104.049 Y=29994.408 Z=5473.815), Max=(X=3555.548 Y=30040.177 Z=6800.866) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:22E915CB44D816F18DCEDD8F028DBE48 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118484196 Label:PaperclipFBX53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1612.467 Y=27270.604 Z=5423.621), Max=(X=-1564.843 Y=28071.752 Z=6759.527) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:240089D448FE9223C9DF92A255E95778 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118476186 Label:PaperclipFBX43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1607.666 Y=28409.423 Z=5488.203), Max=(X=-1565.210 Y=28757.494 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:24CCF9114BC8DAFDA06F37B93C9E4450 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1938653914 Label:PaperclipFBX32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-431.519 Y=29994.406 Z=5488.203), Max=(X=-83.067 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:24FE37C24BCAF0427E9F15A0C9A923E6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118480191 Label:PaperclipFBX48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1604.981 Y=23047.542 Z=5459.286), Max=(X=-1560.294 Y=23611.619 Z=6801.524) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:2780D68241FAFE807E642DADCFBCB6C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1568295886 Label:PaperclipFBX6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11741.335 Y=29994.413 Z=5465.352), Max=(X=12262.370 Y=30040.183 Z=6802.982) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:29958A004FEF3100CE62E2BE96B2E682 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Level_HLOD0_Instancing_000000009750f8a4 Label:Level_HLOD0_Instancing/MainGrid_L1_X0_Y0_DL0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=51200.000 Y=51200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 FolderPath:HLOD/Level_HLOD0_Instancing FolderGuid:8AE17FFA44A0EF47AAB084AAAAD63E3C
+ |   |   |- Guid:2A7A7FA34A195862DC68B5AA24F93609 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_2127336259 Label:PaperclipFBX107 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2355.546 Y=19640.725 Z=1458.052), Max=(X=3675.724 Y=20057.489 Z=1488.713) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:33A9616C407C571B0F6389BEEED1E7AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465430242 Label:PaperclipFBX95 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6188.922 Y=14046.344 Z=5488.207), Max=(X=6536.956 Y=14088.495 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:37918C0C4DD4F00EA874D7A1F22402AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1567314885 Label:PaperclipFBX5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12293.202 Y=29994.413 Z=5480.575), Max=(X=12700.887 Y=30040.183 Z=6798.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:384D879740E1FB3DCED25298456BADCD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1939662915 Label:PaperclipFBX33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-70.384 Y=29994.406 Z=5488.203), Max=(X=278.068 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:38FAE62E464926FEBCCA319E95339E73 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1320153443 Label:JordanLymper_Thumbtack_v6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11284.840 Y=29479.686 Z=3176.088), Max=(X=11681.052 Y=30684.732 Z=3572.300) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:39B942504D7D8AB482A8E48E54AB5C63 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1156027143 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5242.792 Y=13694.444 Z=-7124.397), Max=(X=22378.578 Y=30830.230 Z=10011.389) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3B3F32454D1B07045BD8949F16408540 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1588237900 Label:PaperclipFBX20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3549.531 Y=29994.408 Z=5488.204), Max=(X=3897.983 Y=30040.178 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:3E2962FA4393DA1507963C8031C05E98 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465421223 Label:PaperclipFBX76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-785.196 Y=14045.890 Z=5488.203), Max=(X=-437.162 Y=14088.042 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:3E5E0F054D502864DDADFFA59817C655 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465420220 Label:PaperclipFBX73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10403.216 Y=9018.112 Z=-22.119), Max=(X=10787.112 Y=9893.255 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:41E3C22B4B9FE0A1C966E986350010FD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465428238 Label:PaperclipFBX91 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1432.901 Y=14048.310 Z=5462.934), Max=(X=1959.607 Y=14088.288 Z=6801.245) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:41FED457404F5B10045D42BCB93D10BD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1484517881 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14329.998 Y=13922.621 Z=-27.986), Max=(X=14429.998 Y=16597.621 Z=6972.014) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:45C9102E42F5884BC1F0CFB14DDA270C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1339200445 Label:JordanLymper_Thumbtack_v8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10609.934 Y=29479.686 Z=2443.945), Max=(X=11006.146 Y=30684.732 Z=2840.157) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:45DF9E5943BB7E9419D9C48FA0390234 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465426233 Label:PaperclipFBX86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12744.826 Y=14048.982 Z=5463.695), Max=(X=13266.306 Y=14089.023 Z=6801.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:46DD643D48A3B1DDFBB5558984F56149 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1582888894 Label:PaperclipFBX14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7417.016 Y=29994.410 Z=5488.207), Max=(X=7765.468 Y=30040.180 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:4736AA614A38C79911DC77918F6A71B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118479190 Label:PaperclipFBX47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1604.430 Y=26059.103 Z=5477.988), Max=(X=-1562.862 Y=26480.867 Z=6799.395) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:47B5EF1249B54EDEEEB9C0A55B8BF275 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A78501_1956802003 Label:SwordFinalFBX SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10810.463 Y=21574.716 Z=-8.487), Max=(X=13114.249 Y=23848.922 Z=3831.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:48CDDDCF44C785639B351E924715705D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118489201 Label:PaperclipFBX58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.608 Y=16064.006 Z=5465.352), Max=(X=-1553.389 Y=16584.644 Z=6802.982) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:49F824E24B83EBFD93B0CD9B76F01CDD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1727482906 Label:PaperclipFBX26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5152.457 Y=29994.409 Z=5370.232), Max=(X=6216.562 Y=30040.178 Z=6610.558) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:4A4FD55F4ECA0F5C6B15A3AD8E01A909 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118492205 Label:PaperclipFBX62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.692 Y=18217.520 Z=5488.208), Max=(X=-1555.236 Y=18565.591 Z=6792.699) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:4B8F0E16462BBEF702E58F8580AC3400 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1575623892 Label:PaperclipFBX12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8202.327 Y=29994.411 Z=5473.213), Max=(X=8658.045 Y=30040.180 Z=6801.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:4DE845224315E04E6CDE8591AE281A14 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819C8101_1135473850 Label:Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14367.498 Y=16458.198 Z=5837.775), Max=(X=14392.498 Y=21183.198 Z=6937.775) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:51D90E2B4EE81508376134A613EA2AD8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465426234 Label:PaperclipFBX87 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11083.426 Y=14051.346 Z=5435.253), Max=(X=11790.054 Y=14089.016 Z=6780.516) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:53C83B54450310DF0D698F9A853FAF94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118477188 Label:PaperclipFBX45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1602.849 Y=24770.683 Z=5473.815), Max=(X=-1561.587 Y=25222.050 Z=6800.866) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:562E2F3247AF5DB6CB2E5BBF435CCA39 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465436252 Label:PaperclipFBX105 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13665.826 Y=14042.867 Z=5443.690), Max=(X=14337.458 Y=14088.800 Z=6790.113) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:56B6515E4B43A71F5F1110AE4932695B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1348483447 Label:JordanLymper_Thumbtack_v10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10636.109 Y=29479.686 Z=880.634), Max=(X=11032.321 Y=30684.732 Z=1276.846) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5730E8C74C7BD830A7E06495142487D1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465418218 Label:PaperclipFBX72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=66.129 Y=11363.235 Z=-22.119), Max=(X=450.025 Y=12238.378 Z=993.850) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:591CCB034831C85F114579A2D3269387 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465433247 Label:PaperclipFBX100 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2314.235 Y=14044.735 Z=5472.858), Max=(X=2779.691 Y=14088.183 Z=6802.398) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5A94E1024211AB45A31895957BBBFAF8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1810584909 Label:CandleFBX4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=614.651 Y=28210.838 Z=-8.368), Max=(X=2688.391 Y=30287.635 Z=573.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5E2C75704B7126A964A72E967FFAADB8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118475184 Label:PaperclipFBX41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1608.055 Y=28806.751 Z=5488.203), Max=(X=-1565.599 Y=29154.821 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5E4705F04933DB0E0332E3A1EA99EE8D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465434250 Label:PaperclipFBX103 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10682.928 Y=14046.637 Z=5488.209), Max=(X=11030.962 Y=14088.788 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5E90ECCB4C31C326539EF6B4DE63F2DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118472181 Label:PaperclipFBX38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6625.578 Y=17577.907 Z=-22.120), Max=(X=-5750.163 Y=17962.562 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5EB77E214F99EC44DE1CCA99C0E97DF9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465432245 Label:PaperclipFBX98 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1080.392 Y=14046.011 Z=5488.203), Max=(X=1428.425 Y=14088.162 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5FEDCB1F4C3BCDFFFC005DA68EB3142E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1164381438 Label:JordanLymper_Thumbtack_v001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3001.326 Y=29479.686 Z=3563.790), Max=(X=3397.537 Y=30684.732 Z=3960.002) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:616E8B6041ECF407C020ECBFFC480051 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1565589884 Label:PaperclipFBX4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12701.304 Y=29994.413 Z=5463.694), Max=(X=13222.935 Y=30040.183 Z=6801.372) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:619191EE454E24CA5BC9E6B947FADE46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465421222 Label:PaperclipFBX75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1563.344 Y=14045.840 Z=5488.203), Max=(X=-1215.310 Y=14087.991 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:662856D64F10D8083F74EA9556C1FA90 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1935952912 Label:PaperclipFBX30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1238.299 Y=29994.406 Z=5488.203), Max=(X=-889.847 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:682632FC4C928F9BC3F2CE89D1D40E3F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465423227 Label:PaperclipFBX80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3147.567 Y=14047.510 Z=5473.816), Max=(X=3598.920 Y=14088.360 Z=6800.867) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:69C59CA642CD13E193A028AD02635001 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465425232 Label:PaperclipFBX85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7460.666 Y=14046.427 Z=5488.207), Max=(X=7808.700 Y=14088.578 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:6CF4BE914D63B535E29615917716BE52 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1937506913 Label:PaperclipFBX31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-828.846 Y=29994.406 Z=5488.203), Max=(X=-480.394 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:70915D29439FBD7B0EED319736914841 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465427235 Label:PaperclipFBX88 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=297.848 Y=14040.053 Z=5423.622), Max=(X=1099.006 Y=14087.830 Z=6759.527) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:71FE98D840F359C1A0103C9D4D0F4593 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1124251437 Label:PaperclipFBX109 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2320.511 Y=19512.084 Z=1516.291), Max=(X=3666.755 Y=20165.568 Z=1546.951) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:76DF3C6345A2153958F4F29DA1904DC3 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1581510144 Label:SpotLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7241.344 Y=11302.146 Z=-14642.328), Max=(X=16971.541 Y=35515.031 Z=9570.557) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:77E1600E412032505247C880BD65917D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1572660890 Label:PaperclipFBX10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9760.389 Y=29994.412 Z=5488.208), Max=(X=10108.841 Y=30040.181 Z=6792.699) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:7B26F1394AE35EAD8B59BDA7257A735D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_2005806258 Label:JordanLymper_SpoolOfThread_v001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1610.090 Y=18049.852 Z=17.681), Max=(X=4360.353 Y=20800.115 Z=1454.050) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:823CD8F3447D27E7019C1A9868E3448F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118496212 Label:PaperclipFBX69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1600.814 Y=21407.628 Z=5488.206), Max=(X=-1558.358 Y=21755.699 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:82A863074D5A57D80655B5AA057FA4DE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118494209 Label:PaperclipFBX66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1603.771 Y=24428.375 Z=5488.204), Max=(X=-1561.315 Y=24776.446 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:82AED09349D97C515B46EDB19FF6F166 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118480192 Label:PaperclipFBX49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1596.690 Y=17770.012 Z=5482.856), Max=(X=-1554.766 Y=18156.678 Z=6796.715) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:83EBBC9349BFC7B75E1CD8B551FA6C3E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118474183 Label:PaperclipFBX40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1608.816 Y=29584.898 Z=5488.203), Max=(X=-1566.360 Y=29932.969 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:84EBBA244E82B7A5FD2E668B9842E2C6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1375819450 Label:JordanLymper_Thumbtack_v12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13558.933 Y=29479.686 Z=3200.715), Max=(X=13955.145 Y=30684.732 Z=3596.927) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:88130F154AC377C91F5D05914A957D65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1941155916 Label:PaperclipFBX34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=254.276 Y=29994.406 Z=5423.621), Max=(X=1055.747 Y=30040.176 Z=6759.527) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:887048164220D71B6E685EA61B90B5C4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1560816883 Label:PaperclipFBX3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13241.973 Y=29994.414 Z=5477.687), Max=(X=13665.967 Y=30040.183 Z=6799.516) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:887AFB9F414D0A2280240C9E8E46D728 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465424228 Label:PaperclipFBX81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2776.992 Y=14046.121 Z=5488.204), Max=(X=3125.025 Y=14088.273 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:8986AF024D53C58653580EA3E5E96320 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465423226 Label:PaperclipFBX79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6956.892 Y=14048.957 Z=5459.522), Max=(X=7506.659 Y=14088.661 Z=6800.351) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:8A381E9C4FF4CDEF64347C906BD0988A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118491204 Label:PaperclipFBX61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.810 Y=19668.188 Z=5473.213), Max=(X=-1556.591 Y=20123.774 Z=6801.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:8A6CC2BD434485ED456891802D379851 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1585876897 Label:PaperclipFBX17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6145.271 Y=29994.409 Z=5488.206), Max=(X=6493.724 Y=30040.179 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:8F2AC8F542947D805FC39E91B2217B7B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118497214 Label:PaperclipFBX71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1593.251 Y=14660.268 Z=5477.687), Max=(X=-1551.704 Y=15084.132 Z=6799.516) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:9027D18C4D3ED4495DFB2D9C33B0CDB0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_2065618919 Label:PaperclipFBX36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10599.246 Y=24780.358 Z=-22.120), Max=(X=11485.521 Y=25197.122 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:9536E3B74011F47DD4A7718F1B17C0C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1593870903 Label:PaperclipFBX23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2270.584 Y=29994.407 Z=5472.857), Max=(X=2736.468 Y=30040.177 Z=6802.397) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:98F215A3405954D72394A495FB599612 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118495211 Label:PaperclipFBX68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1596.832 Y=17338.632 Z=5488.209), Max=(X=-1554.376 Y=17686.703 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:9F2558C54498A2D2A02E0A8DBE938BC4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118495210 Label:PaperclipFBX67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1595.166 Y=18618.221 Z=5452.425), Max=(X=-1555.497 Y=19215.176 Z=6796.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:9FE45229421DB509875D11A53DAA6F60 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1580413893 Label:PaperclipFBX13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7823.684 Y=29994.410 Z=5483.695), Max=(X=8207.340 Y=30040.180 Z=6796.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A0B2E2384CD6DFD83056D8B783EBB722 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1571701889 Label:PaperclipFBX9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10169.428 Y=29994.412 Z=5482.856), Max=(X=10556.222 Y=30040.182 Z=6796.715) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A0C06E4B471B2B22B9B226ADE9F9BE12 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465430241 Label:PaperclipFBX94 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7867.334 Y=14046.052 Z=5483.696), Max=(X=8250.570 Y=14088.588 Z=6796.774) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A0E17A3F445CA79AC3AA7A8DF4B62945 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465431244 Label:PaperclipFBX97 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9804.039 Y=14046.580 Z=5488.209), Max=(X=10152.073 Y=14088.731 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A147F10A4CA823DCC13AC78F39619BF6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1093407436 Label:PaperclipFBX108 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2358.234 Y=19657.788 Z=1493.624), Max=(X=3675.121 Y=20058.954 Z=1524.284) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A218849E4BBC9EB0C7C0EF9FA80C43AD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465422224 Label:PaperclipFBX77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1194.649 Y=14045.864 Z=5488.203), Max=(X=-846.615 Y=14088.015 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A32F02D843D377445E7D2685B8DD0A37 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422811C7F01_1933442203 Label:PaperclipFBX2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13622.200 Y=29994.415 Z=5443.689), Max=(X=14294.231 Y=30040.184 Z=6790.112) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A78CE3014E185D808E514C8D7261A437 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1573668891 Label:PaperclipFBX11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8705.536 Y=29994.411 Z=5488.207), Max=(X=9053.989 Y=30040.181 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A8BF516D4AF852F0C63F8B96DACA71D2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465422225 Label:PaperclipFBX78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-387.868 Y=14045.916 Z=5488.203), Max=(X=-39.835 Y=14088.067 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:AA8888BF49E1D9097F2C91AA58A2019B BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1885619145 Label:SpotLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1562.310 Y=11451.645 Z=-11437.709), Max=(X=22302.101 Y=32191.436 Z=9302.082) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AE5611734078D710D7077E9AD7D98A11 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118477187 Label:PaperclipFBX44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.922 Y=20862.945 Z=5459.521), Max=(X=-1557.716 Y=21412.728 Z=6800.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:AEAE25F64A838E2545DE9A846095EDAC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118485197 Label:PaperclipFBX54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1590.097 Y=22109.713 Z=5370.232), Max=(X=-1558.618 Y=23173.576 Z=6610.558) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:AF4D7ADE48A17B4106952C84D8D5C0DB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465427236 Label:PaperclipFBX89 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5196.051 Y=14058.390 Z=5370.232), Max=(X=6259.891 Y=14088.898 Z=6610.559) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:AFA9956F42259CC34BFB17B40AC46DAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465437254 Label:WallFBX3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1627.081 Y=13939.939 Z=-44.687), Max=(X=14352.794 Y=14039.813 Z=6946.509) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:B136AC124383E1C1B3A18A832E6160F2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465431243 Label:PaperclipFBX96 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8245.845 Y=14047.892 Z=5473.214), Max=(X=8701.417 Y=14088.695 Z=6801.014) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:B60D85C346EB52AE3AC4EF90E7663DCD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1569319887 Label:PaperclipFBX7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11039.890 Y=29994.412 Z=5435.253), Max=(X=11746.689 Y=30040.182 Z=6780.515) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:B7B9A3F24784BE9851BD4884F59FCA0E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465425231 Label:PaperclipFBX84 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10212.941 Y=14047.214 Z=5482.857), Max=(X=10599.594 Y=14088.786 Z=6796.716) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:B7DFA67E437A98D130D2B6A4E82C62A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118490202 Label:PaperclipFBX59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1599.956 Y=20119.023 Z=5483.695), Max=(X=-1557.149 Y=20502.295 Z=6796.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:B98B634E496AAA51342701A10B67632B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1767255908 Label:PaperclipFBX28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1845.233 Y=29994.407 Z=5477.988), Max=(X=2267.127 Y=30040.177 Z=6799.395) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BA20F0E44B5B2220EA073EB48CB4BF6B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465429240 Label:PaperclipFBX93 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11784.987 Y=14044.693 Z=5465.353), Max=(X=12305.587 Y=14088.771 Z=6802.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BA8B22F740BB56A456BE629E6990460F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819B8101_2068657670 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14367.498 Y=16579.265 Z=-12.316), Max=(X=14392.498 Y=21079.265 Z=3612.684) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BA9D82694BD104CBD225AD81BFC5B9E7 BaseClass: NativeClass:/Script/CinematicCamera.CineCameraActor Name:CineCameraActor_UAID_846993542281F17C01_1512951525 Label:CineCameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6748.952 Y=26200.000 Z=656.401), Max=(X=6748.952 Y=26200.000 Z=656.401) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BC5DAB8C4AAB19A05BF21C9F5E66BF7A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465421221 Label:PaperclipFBX74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26.734 Y=14045.939 Z=5488.203), Max=(X=321.300 Y=14088.091 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BDE7C1A84535513B046061A8CEF14C51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1978696918 Label:PaperclipFBX35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-292.559 Y=27232.497 Z=-22.120), Max=(X=435.270 Y=28149.665 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BE59A07B4EE5FED3E1CB72B4FC7A21C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1278657439 Label:JordanLymper_Thumbtack_v2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4028.336 Y=29479.686 Z=2636.071), Max=(X=4424.548 Y=30684.732 Z=3032.283) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:C11EAE164C7512624847E0A11A2DC25E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1652752255 Label:CandleFBX5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1636.102 Y=14066.046 Z=-6.641), Max=(X=102.723 Y=15814.989 Z=598.323) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:C955348C469D240807AB43808E7EC4B7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118481193 Label:PaperclipFBX50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1599.985 Y=20560.893 Z=5488.207), Max=(X=-1557.529 Y=20908.963 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:C9BE6E1F4DC8ACE2D54159BECC4732B1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1646005905 Label:PaperclipFBX25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9110.917 Y=29994.411 Z=5452.425), Max=(X=9708.015 Y=30040.181 Z=6796.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D1B169A440ABCCC723B828938E5CEAF7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118487199 Label:PaperclipFBX56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1603.616 Y=26409.995 Z=5462.933), Max=(X=-1563.156 Y=26936.715 Z=6801.244) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D2AB54DC422060458D11B1ADA3EE13FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1595711904 Label:PaperclipFBX24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1036.741 Y=29994.406 Z=5488.203), Max=(X=1385.193 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D3C00A7E4A158D8AFB6E2EBEB3DDEBAF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118486198 Label:PaperclipFBX55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1614.930 Y=23399.067 Z=5373.881), Max=(X=-1561.701 Y=24477.588 Z=6604.894) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D4490DE24C9D16B01C3AC3A18C242C2C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465434249 Label:PaperclipFBX102 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9154.445 Y=14049.705 Z=5452.426), Max=(X=9751.384 Y=14088.829 Z=6796.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D5D691BD427A9DC5A7FB47A1EDDE1E93 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1570160888 Label:PaperclipFBX8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10639.277 Y=29994.412 Z=5488.209), Max=(X=10987.730 Y=30040.182 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D673EE824E0926570CEEE4BB5240A7FD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281F07C01_1831847346 Label:CandleFBX2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1618.612 Y=27820.898 Z=7.380), Max=(X=606.523 Y=30029.262 Z=870.386) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D89526464F21794F1CB57ABFCB04E392 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1299139441 Label:JordanLymper_Thumbtack_v4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6394.333 Y=29479.686 Z=839.717), Max=(X=6790.544 Y=30684.732 Z=1235.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D91F0204406DABD5F263B0AF60753AEF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1586803898 Label:PaperclipFBX18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4714.357 Y=29994.409 Z=5459.286), Max=(X=5278.835 Y=30040.178 Z=6801.525) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:DB2FCD254F6C20EE5AD861B57435AD6B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118472182 Label:PaperclipFBX39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1607.313 Y=28048.289 Z=5488.203), Max=(X=-1564.857 Y=28396.359 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:DC7F699D45BBF3CCA1D1719109C76FF0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118482194 Label:PaperclipFBX51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1592.609 Y=15103.301 Z=5463.694), Max=(X=-1552.093 Y=15624.796 Z=6801.372) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:DE6C1B2140CD829F6336E5B7C84088C7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118482195 Label:PaperclipFBX52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1591.763 Y=16579.552 Z=5435.253), Max=(X=-1553.448 Y=17286.197 Z=6780.515) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:DF45A62D437625BA9D068E9D1842381C BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1997424146 Label:SpotLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7489.056 Y=8187.303 Z=-14642.328), Max=(X=16723.829 Y=32400.188 Z=9570.557) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E05EF82F4C50A405923D3C83E0C2E7C7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465435251 Label:PaperclipFBX104 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6613.930 Y=14046.372 Z=5488.207), Max=(X=6961.964 Y=14088.523 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:E1343F0A4CD96D3174BABA8BB4DE658E BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Level_HLOD0_Instancing_000000004241ba5f Label:Level_HLOD0_Instancing/MainGrid_L0_X0_Y1_DL0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=25600.000 Z=-692.081), Max=(X=25600.000 Y=51200.000 Z=1807.919) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 FolderPath:HLOD/Level_HLOD0_Instancing FolderGuid:8AE17FFA44A0EF47AAB084AAAAD63E3C
+ |   |   |- Guid:E343E3E94213AD5B9BC4BBADD6DCAD94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1291883440 Label:JordanLymper_Thumbtack_v3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5187.213 Y=29479.686 Z=1677.084), Max=(X=5583.425 Y=30684.732 Z=2073.296) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:E57629A3426FE6E97C18F79D3B130791 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465432246 Label:PaperclipFBX99 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12336.853 Y=14046.068 Z=5480.576), Max=(X=12744.115 Y=14088.867 Z=6798.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EA61BD674EE425E330BB5099D8C5078E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118478189 Label:PaperclipFBX46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1604.569 Y=25244.565 Z=5488.204), Max=(X=-1562.114 Y=25592.635 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EBAEE1F34B632B7C665B50AE77EF6431 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A28101_1636396909 Label:WallFBX SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1636.295 Y=30028.951 Z=-44.688), Max=(X=14343.579 Y=30128.826 Z=6946.508) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EBF9F79248451DE7FD470C84D063428F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1781561256 Label:JordanLymper_ShieldButton_v001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12744.901 Y=13839.142 Z=-87.679), Max=(X=14587.231 Y=15833.921 Z=1397.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:ED680B1E49ADC142D7CA849D3AC2DD0D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1373478449 Label:JordanLymper_Thumbtack_v11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12816.772 Y=29479.686 Z=3333.401), Max=(X=13212.984 Y=30684.732 Z=3729.613) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EE2AB03A4BDCEB71943D4CB38540D582 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465433248 Label:PaperclipFBX101 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3593.182 Y=14046.175 Z=5488.205), Max=(X=3941.215 Y=14088.326 Z=6792.696) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EEF1D6304E65B050B84C4A8C2912B7E3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118493207 Label:PaperclipFBX64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1595.836 Y=15625.480 Z=5480.575), Max=(X=-1552.786 Y=16032.778 Z=6798.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EF7BBE2F414817EE9A57BBA37CD66BC5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1427547879 Label:CandleFBX3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1698.325 Y=25794.211 Z=-6.641), Max=(X=40.500 Y=27543.154 Z=598.323) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:F19617FA46FC6DBF42E4E5AB0317B536 BaseClass: NativeClass:/Script/CinematicCamera.CineCameraActor Name:CineCameraActor_UAID_8469935422819B8101_1513681669 Label:CineCameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3301.413 Y=17266.505 Z=4604.214), Max=(X=3301.413 Y=17266.505 Z=4604.214) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F20730C34074BF912B5B2386D9B104B4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1341788446 Label:JordanLymper_Thumbtack_v9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10688.159 Y=29479.686 Z=1648.025), Max=(X=11084.371 Y=30684.732 Z=2044.236) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:F88EDA3A43821AB91864F8A12D431391 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1308143442 Label:JordanLymper_Thumbtack_v5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10677.982 Y=29479.686 Z=3279.999), Max=(X=11074.193 Y=30684.732 Z=3676.211) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:F8F38AB4440DCD28E6B275886245DC69 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1588913901 Label:PaperclipFBX21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2733.341 Y=29994.407 Z=5488.204), Max=(X=3081.793 Y=30040.177 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:F9CF0DC4467447742A75F49990E5D2DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1587479899 Label:PaperclipFBX19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3848.612 Y=29994.408 Z=5373.881), Max=(X=4927.203 Y=30040.178 Z=6604.894) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:FA3C73D9433F018BA6D04AAB423C2DEA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465424229 Label:PaperclipFBX82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1888.748 Y=14047.079 Z=5477.989), Max=(X=2310.499 Y=14088.262 Z=6799.396) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:FB966AE84CD8734F532692AB60B5E1D2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819A8101_1781804489 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1660.000 Y=14030.000 Z=6870.247), Max=(X=14340.000 Y=30030.000 Z=6970.247) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:FF1905CA40D4FFA3068D80A2BF4AC83A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465424230 Label:PaperclipFBX83 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4758.009 Y=14043.698 Z=5459.287), Max=(X=5322.047 Y=14088.287 Z=6801.525) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:24FE37C24BCAF0427E9F15A0C9A923E6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118480191 Label:PaperclipFBX48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1604.981 Y=23047.542 Z=5459.286), Max=(X=-1560.294 Y=23611.619 Z=6801.524) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:13D59E8D4066147B45AFB6B2AAD1F16E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118467180 Label:PaperclipFBX37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4289.899 Y=27917.132 Z=-22.120), Max=(X=-3414.484 Y=28301.787 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:69C59CA642CD13E193A028AD02635001 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465425232 Label:PaperclipFBX85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7460.666 Y=14046.427 Z=5488.207), Max=(X=7808.700 Y=14088.578 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:19F3F4E142BA87C300A1A0B9095278A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465428239 Label:PaperclipFBX92 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8749.187 Y=14046.511 Z=5488.208), Max=(X=9097.221 Y=14088.662 Z=6792.699) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:82AED09349D97C515B46EDB19FF6F166 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118480192 Label:PaperclipFBX49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1596.690 Y=17770.012 Z=5482.856), Max=(X=-1554.766 Y=18156.678 Z=6796.715) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:76DF3C6345A2153958F4F29DA1904DC3 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1581510144 Label:SpotLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7241.344 Y=11302.146 Z=-14642.328), Max=(X=16971.541 Y=35515.031 Z=9570.557) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:A32F02D843D377445E7D2685B8DD0A37 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422811C7F01_1933442203 Label:PaperclipFBX2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13622.200 Y=29994.415 Z=5443.689), Max=(X=14294.231 Y=30040.184 Z=6790.112) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:D1B169A440ABCCC723B828938E5CEAF7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118487199 Label:PaperclipFBX56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1603.616 Y=26409.995 Z=5462.933), Max=(X=-1563.156 Y=26936.715 Z=6801.244) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:A0E17A3F445CA79AC3AA7A8DF4B62945 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465431244 Label:PaperclipFBX97 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9804.039 Y=14046.580 Z=5488.209), Max=(X=10152.073 Y=14088.731 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:06F3B08046A0868FD6E338A6E6AE5899 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1583635895 Label:PaperclipFBX15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6913.368 Y=29994.410 Z=5459.521), Max=(X=7463.289 Y=30040.180 Z=6800.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1F54A75E496F5E23A8CD5BA1F725A39B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1750575907 Label:PaperclipFBX27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3104.049 Y=29994.408 Z=5473.815), Max=(X=3555.548 Y=30040.177 Z=6800.866) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:D4490DE24C9D16B01C3AC3A18C242C2C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465434249 Label:PaperclipFBX102 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9154.445 Y=14049.705 Z=5452.426), Max=(X=9751.384 Y=14088.829 Z=6796.984) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:AF4D7ADE48A17B4106952C84D8D5C0DB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465427236 Label:PaperclipFBX89 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5196.051 Y=14058.390 Z=5370.232), Max=(X=6259.891 Y=14088.898 Z=6610.559) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:15A1698E489C06A5A3533AADF7FD1C0B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1147516876 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14329.998 Y=21056.020 Z=-27.986), Max=(X=14429.998 Y=30131.020 Z=6972.014) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:1384781F488566526BA297B0D2D11EF5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118488200 Label:PaperclipFBX57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1598.724 Y=19272.372 Z=5488.207), Max=(X=-1556.268 Y=19620.443 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:D673EE824E0926570CEEE4BB5240A7FD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281F07C01_1831847346 Label:CandleFBX2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1618.612 Y=27820.898 Z=7.380), Max=(X=606.523 Y=30029.262 Z=870.386) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:EF7BBE2F414817EE9A57BBA37CD66BC5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1427547879 Label:CandleFBX3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1698.325 Y=25794.211 Z=-6.641), Max=(X=40.500 Y=27543.154 Z=598.323) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:A0C06E4B471B2B22B9B226ADE9F9BE12 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465430241 Label:PaperclipFBX94 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7867.334 Y=14046.052 Z=5483.696), Max=(X=8250.570 Y=14088.588 Z=6796.774) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:F8F38AB4440DCD28E6B275886245DC69 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1588913901 Label:PaperclipFBX21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2733.341 Y=29994.407 Z=5488.204), Max=(X=3081.793 Y=30040.177 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:4DE845224315E04E6CDE8591AE281A14 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819C8101_1135473850 Label:Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14367.498 Y=16458.198 Z=5837.775), Max=(X=14392.498 Y=21183.198 Z=6937.775) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:B136AC124383E1C1B3A18A832E6160F2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465431243 Label:PaperclipFBX96 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8245.845 Y=14047.892 Z=5473.214), Max=(X=8701.417 Y=14088.695 Z=6801.014) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:5EB77E214F99EC44DE1CCA99C0E97DF9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465432245 Label:PaperclipFBX98 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1080.392 Y=14046.011 Z=5488.203), Max=(X=1428.425 Y=14088.162 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:9027D18C4D3ED4495DFB2D9C33B0CDB0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_2065618919 Label:PaperclipFBX36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10599.246 Y=24780.358 Z=-22.120), Max=(X=11485.521 Y=25197.122 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:BE59A07B4EE5FED3E1CB72B4FC7A21C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1278657439 Label:JordanLymper_Thumbtack_v2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4028.336 Y=29479.686 Z=2636.071), Max=(X=4424.548 Y=30684.732 Z=3032.283) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:089EC8B74988F6D825DDFAB71FC7378A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118492206 Label:PaperclipFBX63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1606.230 Y=26941.164 Z=5488.203), Max=(X=-1563.774 Y=27289.235 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:AE5611734078D710D7077E9AD7D98A11 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118477187 Label:PaperclipFBX44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.922 Y=20862.945 Z=5459.521), Max=(X=-1557.716 Y=21412.728 Z=6800.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:A8BF516D4AF852F0C63F8B96DACA71D2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465422225 Label:PaperclipFBX78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-387.868 Y=14045.916 Z=5488.203), Max=(X=-39.835 Y=14088.067 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:B98B634E496AAA51342701A10B67632B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1767255908 Label:PaperclipFBX28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1845.233 Y=29994.407 Z=5477.988), Max=(X=2267.127 Y=30040.177 Z=6799.395) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:71FE98D840F359C1A0103C9D4D0F4593 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1124251437 Label:PaperclipFBX109 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2320.511 Y=19512.084 Z=1516.291), Max=(X=3666.755 Y=20165.568 Z=1546.951) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:E343E3E94213AD5B9BC4BBADD6DCAD94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1291883440 Label:JordanLymper_Thumbtack_v3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5187.213 Y=29479.686 Z=1677.084), Max=(X=5583.425 Y=30684.732 Z=2073.296) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:DF45A62D437625BA9D068E9D1842381C BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1997424146 Label:SpotLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7489.056 Y=8187.303 Z=-14642.328), Max=(X=16723.829 Y=32400.188 Z=9570.557) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:D91F0204406DABD5F263B0AF60753AEF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1586803898 Label:PaperclipFBX18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4714.357 Y=29994.409 Z=5459.286), Max=(X=5278.835 Y=30040.178 Z=6801.525) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:82A863074D5A57D80655B5AA057FA4DE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118494209 Label:PaperclipFBX66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1603.771 Y=24428.375 Z=5488.204), Max=(X=-1561.315 Y=24776.446 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:073AA4554015EC4B7AEA13A9840BF115 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118496213 Label:PaperclipFBX70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.570 Y=14032.160 Z=5443.689), Max=(X=-1551.650 Y=14703.780 Z=6790.112) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:5E4705F04933DB0E0332E3A1EA99EE8D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465434250 Label:PaperclipFBX103 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10682.928 Y=14046.637 Z=5488.209), Max=(X=11030.962 Y=14088.788 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:98F215A3405954D72394A495FB599612 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118495211 Label:PaperclipFBX68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1596.832 Y=17338.632 Z=5488.209), Max=(X=-1554.376 Y=17686.703 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:0DCBB41241E18E6F26BB02A7884B4DD2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118475185 Label:PaperclipFBX42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1608.455 Y=29216.203 Z=5488.203), Max=(X=-1565.999 Y=29564.274 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:3E5E0F054D502864DDADFFA59817C655 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465420220 Label:PaperclipFBX73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10403.216 Y=9018.112 Z=-22.119), Max=(X=10787.112 Y=9893.255 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:A0B2E2384CD6DFD83056D8B783EBB722 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1571701889 Label:PaperclipFBX9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10169.428 Y=29994.412 Z=5482.856), Max=(X=10556.222 Y=30040.182 Z=6796.715) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:EEF1D6304E65B050B84C4A8C2912B7E3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118493207 Label:PaperclipFBX64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1595.836 Y=15625.480 Z=5480.575), Max=(X=-1552.786 Y=16032.778 Z=6798.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:BDE7C1A84535513B046061A8CEF14C51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1978696918 Label:PaperclipFBX35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-292.559 Y=27232.497 Z=-22.120), Max=(X=435.270 Y=28149.665 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:D89526464F21794F1CB57ABFCB04E392 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1299139441 Label:JordanLymper_Thumbtack_v4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6394.333 Y=29479.686 Z=839.717), Max=(X=6790.544 Y=30684.732 Z=1235.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:1CAB63334824B2AAE5C54E910298FD82 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1277320217 Label:WallFBX2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1693.717 Y=13959.950 Z=-44.688), Max=(X=-1593.843 Y=30080.617 Z=6946.508) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:84EBBA244E82B7A5FD2E668B9842E2C6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1375819450 Label:JordanLymper_Thumbtack_v12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13558.933 Y=29479.686 Z=3200.715), Max=(X=13955.145 Y=30684.732 Z=3596.927) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:AA8888BF49E1D9097F2C91AA58A2019B BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1885619145 Label:SpotLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1562.310 Y=11451.645 Z=-11437.709), Max=(X=22302.101 Y=32191.436 Z=9302.082) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:0FCA87984954FA56677B4BB4F6CD6849 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819B8101_2090304671 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1660.000 Y=14030.000 Z=6873.026), Max=(X=14340.000 Y=30030.000 Z=6973.026) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:4736AA614A38C79911DC77918F6A71B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118479190 Label:PaperclipFBX47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1604.430 Y=26059.103 Z=5477.988), Max=(X=-1562.862 Y=26480.867 Z=6799.395) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:E1343F0A4CD96D3174BABA8BB4DE658E BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Level_HLOD0_Instancing_000000004241ba5f Label:Level_HLOD0_Instancing/MainGrid_L0_X0_Y1_DL0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=25600.000 Z=-692.081), Max=(X=25600.000 Y=51200.000 Z=1807.919) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 FolderPath:HLOD/Level_HLOD0_Instancing FolderGuid:8AE17FFA44A0EF47AAB084AAAAD63E3C
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:384D879740E1FB3DCED25298456BADCD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1939662915 Label:PaperclipFBX33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-70.384 Y=29994.406 Z=5488.203), Max=(X=278.068 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:562E2F3247AF5DB6CB2E5BBF435CCA39 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465436252 Label:PaperclipFBX105 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13665.826 Y=14042.867 Z=5443.690), Max=(X=14337.458 Y=14088.800 Z=6790.113) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:A218849E4BBC9EB0C7C0EF9FA80C43AD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465422224 Label:PaperclipFBX77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1194.649 Y=14045.864 Z=5488.203), Max=(X=-846.615 Y=14088.015 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:DE6C1B2140CD829F6336E5B7C84088C7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118482195 Label:PaperclipFBX52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1591.763 Y=16579.552 Z=5435.253), Max=(X=-1553.448 Y=17286.197 Z=6780.515) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:F20730C34074BF912B5B2386D9B104B4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1341788446 Label:JordanLymper_Thumbtack_v9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10688.159 Y=29479.686 Z=1648.025), Max=(X=11084.371 Y=30684.732 Z=2044.236) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:E05EF82F4C50A405923D3C83E0C2E7C7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465435251 Label:PaperclipFBX104 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6613.930 Y=14046.372 Z=5488.207), Max=(X=6961.964 Y=14088.523 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:45C9102E42F5884BC1F0CFB14DDA270C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1339200445 Label:JordanLymper_Thumbtack_v8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10609.934 Y=29479.686 Z=2443.945), Max=(X=11006.146 Y=30684.732 Z=2840.157) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:046C6B6144ABDEA258007CB309A437A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465428237 Label:PaperclipFBX90 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3892.013 Y=14034.007 Z=5373.882), Max=(X=4970.539 Y=14087.734 Z=6604.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:BC5DAB8C4AAB19A05BF21C9F5E66BF7A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465421221 Label:PaperclipFBX74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26.734 Y=14045.939 Z=5488.203), Max=(X=321.300 Y=14088.091 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:4A4FD55F4ECA0F5C6B15A3AD8E01A909 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118492205 Label:PaperclipFBX62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.692 Y=18217.520 Z=5488.208), Max=(X=-1555.236 Y=18565.591 Z=6792.699) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:F19617FA46FC6DBF42E4E5AB0317B536 BaseClass: NativeClass:/Script/CinematicCamera.CineCameraActor Name:CineCameraActor_UAID_8469935422819B8101_1513681669 Label:CineCameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3301.413 Y=17266.505 Z=4604.214), Max=(X=3301.413 Y=17266.505 Z=4604.214) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:46DD643D48A3B1DDFBB5558984F56149 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1582888894 Label:PaperclipFBX14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7417.016 Y=29994.410 Z=5488.207), Max=(X=7765.468 Y=30040.180 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:53C83B54450310DF0D698F9A853FAF94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118477188 Label:PaperclipFBX45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1602.849 Y=24770.683 Z=5473.815), Max=(X=-1561.587 Y=25222.050 Z=6800.866) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:616E8B6041ECF407C020ECBFFC480051 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1565589884 Label:PaperclipFBX4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12701.304 Y=29994.413 Z=5463.694), Max=(X=13222.935 Y=30040.183 Z=6801.372) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:BA8B22F740BB56A456BE629E6990460F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819B8101_2068657670 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14367.498 Y=16579.265 Z=-12.316), Max=(X=14392.498 Y=21079.265 Z=3612.684) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:B60D85C346EB52AE3AC4EF90E7663DCD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1569319887 Label:PaperclipFBX7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11039.890 Y=29994.412 Z=5435.253), Max=(X=11746.689 Y=30040.182 Z=6780.515) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:EBF9F79248451DE7FD470C84D063428F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1781561256 Label:JordanLymper_ShieldButton_v001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12744.901 Y=13839.142 Z=-87.679), Max=(X=14587.231 Y=15833.921 Z=1397.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:240089D448FE9223C9DF92A255E95778 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118476186 Label:PaperclipFBX43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1607.666 Y=28409.423 Z=5488.203), Max=(X=-1565.210 Y=28757.494 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:88130F154AC377C91F5D05914A957D65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1941155916 Label:PaperclipFBX34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=254.276 Y=29994.406 Z=5423.621), Max=(X=1055.747 Y=30040.176 Z=6759.527) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:F88EDA3A43821AB91864F8A12D431391 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1308143442 Label:JordanLymper_Thumbtack_v5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10677.982 Y=29479.686 Z=3279.999), Max=(X=11074.193 Y=30684.732 Z=3676.211) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:BA20F0E44B5B2220EA073EB48CB4BF6B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465429240 Label:PaperclipFBX93 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11784.987 Y=14044.693 Z=5465.353), Max=(X=12305.587 Y=14088.771 Z=6802.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:C11EAE164C7512624847E0A11A2DC25E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1652752255 Label:CandleFBX5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1636.102 Y=14066.046 Z=-6.641), Max=(X=102.723 Y=15814.989 Z=598.323) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:887AFB9F414D0A2280240C9E8E46D728 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465424228 Label:PaperclipFBX81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2776.992 Y=14046.121 Z=5488.204), Max=(X=3125.025 Y=14088.273 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:49F824E24B83EBFD93B0CD9B76F01CDD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1727482906 Label:PaperclipFBX26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5152.457 Y=29994.409 Z=5370.232), Max=(X=6216.562 Y=30040.178 Z=6610.558) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:0D63DD324E7158627688428DFE7BC277 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118490203 Label:PaperclipFBX60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1601.230 Y=21832.636 Z=5488.206), Max=(X=-1558.774 Y=22180.707 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:BA9D82694BD104CBD225AD81BFC5B9E7 BaseClass: NativeClass:/Script/CinematicCamera.CineCameraActor Name:CineCameraActor_UAID_846993542281F17C01_1512951525 Label:CineCameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6748.952 Y=26200.000 Z=656.401), Max=(X=6748.952 Y=26200.000 Z=656.401) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:29958A004FEF3100CE62E2BE96B2E682 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Level_HLOD0_Instancing_000000009750f8a4 Label:Level_HLOD0_Instancing/MainGrid_L1_X0_Y0_DL0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=51200.000 Y=51200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 FolderPath:HLOD/Level_HLOD0_Instancing FolderGuid:8AE17FFA44A0EF47AAB084AAAAD63E3C
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:70915D29439FBD7B0EED319736914841 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465427235 Label:PaperclipFBX88 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=297.848 Y=14040.053 Z=5423.622), Max=(X=1099.006 Y=14087.830 Z=6759.527) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:EBAEE1F34B632B7C665B50AE77EF6431 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A28101_1636396909 Label:WallFBX SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1636.295 Y=30028.951 Z=-44.688), Max=(X=14343.579 Y=30128.826 Z=6946.508) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:167360A94C17AF3A2C7A5398B8EE0113 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1326142444 Label:JordanLymper_Thumbtack_v7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12064.170 Y=29479.686 Z=3279.999), Max=(X=12460.382 Y=30684.732 Z=3676.211) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:F9CF0DC4467447742A75F49990E5D2DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1587479899 Label:PaperclipFBX19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3848.612 Y=29994.408 Z=5373.881), Max=(X=4927.203 Y=30040.178 Z=6604.894) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:2A7A7FA34A195862DC68B5AA24F93609 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_2127336259 Label:PaperclipFBX107 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2355.546 Y=19640.725 Z=1458.052), Max=(X=3675.724 Y=20057.489 Z=1488.713) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:AFA9956F42259CC34BFB17B40AC46DAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465437254 Label:WallFBX3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1627.081 Y=13939.939 Z=-44.687), Max=(X=14352.794 Y=14039.813 Z=6946.509) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:08C6D1044F5942E9A6B60BBDF905779B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1929625911 Label:PaperclipFBX29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1606.994 Y=29994.406 Z=5488.203), Max=(X=-1258.542 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:45DF9E5943BB7E9419D9C48FA0390234 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465426233 Label:PaperclipFBX86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12744.826 Y=14048.982 Z=5463.695), Max=(X=13266.306 Y=14089.023 Z=6801.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:1B533EC5416A72365A8B9DA81E1AF972 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1589787902 Label:PaperclipFBX22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1389.379 Y=29994.407 Z=5462.933), Max=(X=1916.236 Y=30040.176 Z=6801.244) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:33A9616C407C571B0F6389BEEED1E7AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465430242 Label:PaperclipFBX95 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6188.922 Y=14046.344 Z=5488.207), Max=(X=6536.956 Y=14088.495 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:8F2AC8F542947D805FC39E91B2217B7B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118497214 Label:PaperclipFBX71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1593.251 Y=14660.268 Z=5477.687), Max=(X=-1551.704 Y=15084.132 Z=6799.516) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:B7B9A3F24784BE9851BD4884F59FCA0E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465425231 Label:PaperclipFBX84 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10212.941 Y=14047.214 Z=5482.857), Max=(X=10599.594 Y=14088.786 Z=6796.716) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 88]
+ |   |   |   |- Guid:A78CE3014E185D808E514C8D7261A437 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1573668891 Label:PaperclipFBX11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8705.536 Y=29994.411 Z=5488.207), Max=(X=9053.989 Y=30040.181 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 89]
+ |   |   |   |- Guid:FB966AE84CD8734F532692AB60B5E1D2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_8469935422819A8101_1781804489 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1660.000 Y=14030.000 Z=6870.247), Max=(X=14340.000 Y=30030.000 Z=6970.247) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 90]
+ |   |   |   |- Guid:47B5EF1249B54EDEEEB9C0A55B8BF275 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A78501_1956802003 Label:SwordFinalFBX SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10810.463 Y=21574.716 Z=-8.487), Max=(X=13114.249 Y=23848.922 Z=3831.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 91]
+ |   |   |   |- Guid:48CDDDCF44C785639B351E924715705D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118489201 Label:PaperclipFBX58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.608 Y=16064.006 Z=5465.352), Max=(X=-1553.389 Y=16584.644 Z=6802.982) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 92]
+ |   |   |   |- Guid:38FAE62E464926FEBCCA319E95339E73 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1320153443 Label:JordanLymper_Thumbtack_v6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11284.840 Y=29479.686 Z=3176.088), Max=(X=11681.052 Y=30684.732 Z=3572.300) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 93]
+ |   |   |   |- Guid:2780D68241FAFE807E642DADCFBCB6C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1568295886 Label:PaperclipFBX6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11741.335 Y=29994.413 Z=5465.352), Max=(X=12262.370 Y=30040.183 Z=6802.982) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 94]
+ |   |   |   |- Guid:7B26F1394AE35EAD8B59BDA7257A735D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_2005806258 Label:JordanLymper_SpoolOfThread_v001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1610.090 Y=18049.852 Z=17.681), Max=(X=4360.353 Y=20800.115 Z=1454.050) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 95]
+ |   |   |   |- Guid:E57629A3426FE6E97C18F79D3B130791 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465432246 Label:PaperclipFBX99 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12336.853 Y=14046.068 Z=5480.576), Max=(X=12744.115 Y=14088.867 Z=6798.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 96]
+ |   |   |   |- Guid:682632FC4C928F9BC3F2CE89D1D40E3F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465423227 Label:PaperclipFBX80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3147.567 Y=14047.510 Z=5473.816), Max=(X=3598.920 Y=14088.360 Z=6800.867) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 97]
+ |   |   |   |- Guid:0E105A7C4853F308D0C417AD40533612 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281F17C01_1418607523 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1660.000 Y=14030.000 Z=-100.000), Max=(X=14340.000 Y=30030.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 98]
+ |   |   |   |- Guid:B7DFA67E437A98D130D2B6A4E82C62A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118490202 Label:PaperclipFBX59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1599.956 Y=20119.023 Z=5483.695), Max=(X=-1557.149 Y=20502.295 Z=6796.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 99]
+ |   |   |   |- Guid:5E90ECCB4C31C326539EF6B4DE63F2DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118472181 Label:PaperclipFBX38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6625.578 Y=17577.907 Z=-22.120), Max=(X=-5750.163 Y=17962.562 Z=993.849) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [100]
+ |   |   |   |- Guid:6CF4BE914D63B535E29615917716BE52 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1937506913 Label:PaperclipFBX31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-828.846 Y=29994.406 Z=5488.203), Max=(X=-480.394 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [101]
+ |   |   |   |- Guid:662856D64F10D8083F74EA9556C1FA90 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1935952912 Label:PaperclipFBX30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1238.299 Y=29994.406 Z=5488.203), Max=(X=-889.847 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [102]
+ |   |   |   |- Guid:FF1905CA40D4FFA3068D80A2BF4AC83A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465424230 Label:PaperclipFBX83 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4758.009 Y=14043.698 Z=5459.287), Max=(X=5322.047 Y=14088.287 Z=6801.525) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [103]
+ |   |   |   |- Guid:41E3C22B4B9FE0A1C966E986350010FD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465428238 Label:PaperclipFBX91 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1432.901 Y=14048.310 Z=5462.934), Max=(X=1959.607 Y=14088.288 Z=6801.245) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [104]
+ |   |   |   |- Guid:24CCF9114BC8DAFDA06F37B93C9E4450 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1938653914 Label:PaperclipFBX32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-431.519 Y=29994.406 Z=5488.203), Max=(X=-83.067 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [105]
+ |   |   |   |- Guid:8A381E9C4FF4CDEF64347C906BD0988A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118491204 Label:PaperclipFBX61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1597.810 Y=19668.188 Z=5473.213), Max=(X=-1556.591 Y=20123.774 Z=6801.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [106]
+ |   |   |   |- Guid:DB2FCD254F6C20EE5AD861B57435AD6B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118472182 Label:PaperclipFBX39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1607.313 Y=28048.289 Z=5488.203), Max=(X=-1564.857 Y=28396.359 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [107]
+ |   |   |   |- Guid:9FE45229421DB509875D11A53DAA6F60 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1580413893 Label:PaperclipFBX13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7823.684 Y=29994.410 Z=5483.695), Max=(X=8207.340 Y=30040.180 Z=6796.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [108]
+ |   |   |   |- Guid:3E2962FA4393DA1507963C8031C05E98 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465421223 Label:PaperclipFBX76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-785.196 Y=14045.890 Z=5488.203), Max=(X=-437.162 Y=14088.042 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [109]
+ |   |   |   |- Guid:8A6CC2BD434485ED456891802D379851 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1585876897 Label:PaperclipFBX17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6145.271 Y=29994.409 Z=5488.206), Max=(X=6493.724 Y=30040.179 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [110]
+ |   |   |   |- Guid:FA3C73D9433F018BA6D04AAB423C2DEA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465424229 Label:PaperclipFBX82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1888.748 Y=14047.079 Z=5477.989), Max=(X=2310.499 Y=14088.262 Z=6799.396) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [111]
+ |   |   |   |- Guid:5E2C75704B7126A964A72E967FFAADB8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118475184 Label:PaperclipFBX41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1608.055 Y=28806.751 Z=5488.203), Max=(X=-1565.599 Y=29154.821 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [112]
+ |   |   |   |- Guid:5FEDCB1F4C3BCDFFFC005DA68EB3142E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1164381438 Label:JordanLymper_Thumbtack_v001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3001.326 Y=29479.686 Z=3563.790), Max=(X=3397.537 Y=30684.732 Z=3960.002) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [113]
+ |   |   |   |- Guid:4B8F0E16462BBEF702E58F8580AC3400 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1575623892 Label:PaperclipFBX12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8202.327 Y=29994.411 Z=5473.213), Max=(X=8658.045 Y=30040.180 Z=6801.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [114]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [115]
+ |   |   |   |- Guid:77E1600E412032505247C880BD65917D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1572660890 Label:PaperclipFBX10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9760.389 Y=29994.412 Z=5488.208), Max=(X=10108.841 Y=30040.181 Z=6792.699) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [116]
+ |   |   |   |- Guid:D2AB54DC422060458D11B1ADA3EE13FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1595711904 Label:PaperclipFBX24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1036.741 Y=29994.406 Z=5488.203), Max=(X=1385.193 Y=30040.176 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [117]
+ |   |   |   |- Guid:37918C0C4DD4F00EA874D7A1F22402AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1567314885 Label:PaperclipFBX5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12293.202 Y=29994.413 Z=5480.575), Max=(X=12700.887 Y=30040.183 Z=6798.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [118]
+ |   |   |   |- Guid:D3C00A7E4A158D8AFB6E2EBEB3DDEBAF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118486198 Label:PaperclipFBX55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1614.930 Y=23399.067 Z=5373.881), Max=(X=-1561.701 Y=24477.588 Z=6604.894) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [119]
+ |   |   |   |- Guid:AEAE25F64A838E2545DE9A846095EDAC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118485197 Label:PaperclipFBX54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1590.097 Y=22109.713 Z=5370.232), Max=(X=-1558.618 Y=23173.576 Z=6610.558) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [120]
+ |   |   |   |- Guid:1518CC544D09B436D820739288169DF1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281568101_1424413521 Label:lowpolyBedfinal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11373.952 Y=24509.972 Z=-10.596), Max=(X=14308.663 Y=30026.875 Z=1541.461) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [121]
+ |   |   |   |- Guid:8986AF024D53C58653580EA3E5E96320 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465423226 Label:PaperclipFBX79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6956.892 Y=14048.957 Z=5459.522), Max=(X=7506.659 Y=14088.661 Z=6800.351) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [122]
+ |   |   |   |- Guid:9F2558C54498A2D2A02E0A8DBE938BC4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118495210 Label:PaperclipFBX67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1595.166 Y=18618.221 Z=5452.425), Max=(X=-1555.497 Y=19215.176 Z=6796.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [123]
+ |   |   |   |- Guid:56B6515E4B43A71F5F1110AE4932695B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1348483447 Label:JordanLymper_Thumbtack_v10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10636.109 Y=29479.686 Z=880.634), Max=(X=11032.321 Y=30684.732 Z=1276.846) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [124]
+ |   |   |   |- Guid:0A065D184E62147489EB7EA454EC2231 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465436253 Label:PaperclipFBX106 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13285.489 Y=14047.847 Z=5477.688), Max=(X=13709.339 Y=14089.006 Z=6799.517) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [125]
+ |   |   |   |- Guid:C955348C469D240807AB43808E7EC4B7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118481193 Label:PaperclipFBX50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1599.985 Y=20560.893 Z=5488.207), Max=(X=-1557.529 Y=20908.963 Z=6792.698) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [126]
+ |   |   |   |- Guid:9536E3B74011F47DD4A7718F1B17C0C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1593870903 Label:PaperclipFBX23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2270.584 Y=29994.407 Z=5472.857), Max=(X=2736.468 Y=30040.177 Z=6802.397) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [127]
+ |   |   |   |- Guid:EA61BD674EE425E330BB5099D8C5078E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118478189 Label:PaperclipFBX46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1604.569 Y=25244.565 Z=5488.204), Max=(X=-1562.114 Y=25592.635 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [128]
+ |   |   |   |- Guid:3B3F32454D1B07045BD8949F16408540 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1588237900 Label:PaperclipFBX20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3549.531 Y=29994.408 Z=5488.204), Max=(X=3897.983 Y=30040.178 Z=6792.695) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [129]
+ |   |   |   |- Guid:51D90E2B4EE81508376134A613EA2AD8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465426234 Label:PaperclipFBX87 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11083.426 Y=14051.346 Z=5435.253), Max=(X=11790.054 Y=14089.016 Z=6780.516) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [130]
+ |   |   |   |- Guid:5730E8C74C7BD830A7E06495142487D1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465418218 Label:PaperclipFBX72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=66.129 Y=11363.235 Z=-22.119), Max=(X=450.025 Y=12238.378 Z=993.850) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [131]
+ |   |   |   |- Guid:03EB6B4F4F370629EF220C8F1F5EAD25 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118494208 Label:PaperclipFBX65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1606.270 Y=25589.898 Z=5472.857), Max=(X=-1562.627 Y=26055.392 Z=6802.397) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [132]
+ |   |   |   |- Guid:C9BE6E1F4DC8ACE2D54159BECC4732B1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1646005905 Label:PaperclipFBX25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9110.917 Y=29994.411 Z=5452.425), Max=(X=9708.015 Y=30040.181 Z=6796.983) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [133]
+ |   |   |   |- Guid:823CD8F3447D27E7019C1A9868E3448F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118496212 Label:PaperclipFBX69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1600.814 Y=21407.628 Z=5488.206), Max=(X=-1558.358 Y=21755.699 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [134]
+ |   |   |   |- Guid:A147F10A4CA823DCC13AC78F39619BF6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1093407436 Label:PaperclipFBX108 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2358.234 Y=19657.788 Z=1493.624), Max=(X=3675.121 Y=20058.954 Z=1524.284) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [135]
+ |   |   |   |- Guid:D5D691BD427A9DC5A7FB47A1EDDE1E93 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1570160888 Label:PaperclipFBX8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10639.277 Y=29994.412 Z=5488.209), Max=(X=10987.730 Y=30040.182 Z=6792.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [136]
+ |   |   |   |- Guid:22E915CB44D816F18DCEDD8F028DBE48 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118484196 Label:PaperclipFBX53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1612.467 Y=27270.604 Z=5423.621), Max=(X=-1564.843 Y=28071.752 Z=6759.527) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [137]
+ |   |   |   |- Guid:591CCB034831C85F114579A2D3269387 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465433247 Label:PaperclipFBX100 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2314.235 Y=14044.735 Z=5472.858), Max=(X=2779.691 Y=14088.183 Z=6802.398) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [138]
+ |   |   |   |- Guid:83EBBC9349BFC7B75E1CD8B551FA6C3E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118474183 Label:PaperclipFBX40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1608.816 Y=29584.898 Z=5488.203), Max=(X=-1566.360 Y=29932.969 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [139]
+ |   |   |   |- Guid:EE2AB03A4BDCEB71943D4CB38540D582 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465433248 Label:PaperclipFBX101 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3593.182 Y=14046.175 Z=5488.205), Max=(X=3941.215 Y=14088.326 Z=6792.696) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [140]
+ |   |   |   |- Guid:619191EE454E24CA5BC9E6B947FADE46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1465421222 Label:PaperclipFBX75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1563.344 Y=14045.840 Z=5488.203), Max=(X=-1215.310 Y=14087.991 Z=6792.694) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [141]
+ |   |   |   |- Guid:39B942504D7D8AB482A8E48E54AB5C63 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_846993542281EC8501_1156027143 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5242.792 Y=13694.444 Z=-7124.397), Max=(X=22378.578 Y=30830.230 Z=10011.389) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [142]
+ |   |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [143]
+ |   |   |   |- Guid:5A94E1024211AB45A31895957BBBFAF8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1810584909 Label:CandleFBX4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=614.651 Y=28210.838 Z=-8.368), Max=(X=2688.391 Y=30287.635 Z=573.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [144]
+ |   |   |   |- Guid:41FED457404F5B10045D42BCB93D10BD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1484517881 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14329.998 Y=13922.621 Z=-27.986), Max=(X=14429.998 Y=16597.621 Z=6972.014) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [145]
+ |   |   |   |- Guid:12A45E064BD9F7D2BAA13FBB2C750E71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1584814896 Label:PaperclipFBX16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6570.279 Y=29994.410 Z=5488.206), Max=(X=6918.732 Y=30040.179 Z=6792.697) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [146]
+ |   |   |   |- Guid:DC7F699D45BBF3CCA1D1719109C76FF0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A88501_1118482194 Label:PaperclipFBX51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1592.609 Y=15103.301 Z=5463.694), Max=(X=-1552.093 Y=15624.796 Z=6801.372) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [147]
+ |   |   |   |- Guid:887048164220D71B6E685EA61B90B5C4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281647F01_1560816883 Label:PaperclipFBX3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13241.973 Y=29994.414 Z=5477.687), Max=(X=13665.967 Y=30040.183 Z=6799.516) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [148]
+ |   |   |   |- Guid:ED680B1E49ADC142D7CA849D3AC2DD0D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_846993542281A98501_1373478449 Label:JordanLymper_Thumbtack_v11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12816.772 Y=29479.686 Z=3333.401), Max=(X=13212.984 Y=30684.732 Z=3729.613) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-7489.056 Y=8187.303 Z=-14642.328), Max=(X=22378.578 Y=35515.031 Z=10011.389)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Level
+----------------------------------------------------------------------------------------------------------------
+Level - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 158 
+
+----------------------------------------------------------------------------------------------------------------
+Level - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-7489.056 Y=8187.303 Z=-14642.328), Max=(X=22378.578 Y=35515.031 Z=10011.389)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    4 | Cell Size   25600 | Actor Count  125 (95.4%)
+ |- Level  1: Cell Count    2 | Cell Size   51200 | Actor Count    6 (4.6%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X-1_Y0
+ |   |- Actor Count: 28
+ |   |- MinMaxZ: X=-22.120 Y=6802.982
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118480191
+ |   |- Actor Package: /Game/__ExternalActors__/Level/0/6F/DI6C47L7299DZJ0TB8GDO6
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118480192
+ |   |- Actor Package: /Game/__ExternalActors__/Level/0/OY/60WID92GHZL5RAV2PB2IAW
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118488200
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/RH/KR4E94NB1SL77M1Z7GPEFX
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118477187
+ |   |- Actor Package: /Game/__ExternalActors__/Level/3/92/SSN5H395DLXPIW4SCVIDCJ
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465422225
+ |   |- Actor Package: /Game/__ExternalActors__/Level/3/CG/XF8WGC7CYWTJOXULROQB0X
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118494209
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/2F/H57CWEWN8VL2CGKSCASDUS
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118496213
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/6Z/AWUG33RA4RTVUHHJD0EZXM
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118495211
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/JN/ANT14JFT6MMLPWDBQHTF3M
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118493207
+ |   |- Actor Package: /Game/__ExternalActors__/Level/5/1L/IJ6W2IAXMY152RX00PC671
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465422224
+ |   |- Actor Package: /Game/__ExternalActors__/Level/6/H7/B9Q2W19F9FVT8FPVZKGIHR
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118482195
+ |   |- Actor Package: /Game/__ExternalActors__/Level/6/QD/HXTJDUODI9UTTFNWBLX9NX
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118492205
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/6V/OST52V3E6TBLOED693HFBV
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118477188
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/BX/7NOQ6SL83SOKPU63EH3KSS
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118490203
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/CF/9030GGY0PTKA59186OYJ2X
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118497214
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/BH/ANBSMOLKBYSMELSCESDXHS
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118489201
+ |   |- Actor Package: /Game/__ExternalActors__/Level/A/32/ALOKI888M3EHUE4QGNUEBD
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118490202
+ |   |- Actor Package: /Game/__ExternalActors__/Level/A/YX/TASLRJWK14NNNZEK5238IC
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118472181
+ |   |- Actor Package: /Game/__ExternalActors__/Level/B/AV/IWJZK90PWLD72PBXLZ7P7J
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118491204
+ |   |- Actor Package: /Game/__ExternalActors__/Level/B/X4/SN3T3E1Q5V1NGKJYTNGZFQ
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465421223
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/55/DIM7MB7Z0PV4DRLWBL51RL
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118486198
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/8G/YTYGS2XOOHQFGBRTS3Q149
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118485197
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/8S/C6GWXGGPLEYG695X8KVZYV
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118495210
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/CI/6IND3ZAPNJGUYA1YZXQADX
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118481193
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/H9/KD29CLC72LFPIFWOSUJG6M
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118478189
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/IZ/SFCCN4FFBPX7XZ9DY2SULV
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118496212
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/WY/XDGF0CY24UZB92RY1Z4HJA
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465421222
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/EE/8QUE07UUJPS3S1ZZQ9R5LK
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118482194
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/YF/F33B9WM4OHL8UBVF0BM0E8
+ |- [+] Content of Cell MainGrid_L0_X-1_Y1
+ |   |- Actor Count: 14
+ |   |- MinMaxZ: X=-22.120 Y=6801.244
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118467180
+ |   |- Actor Package: /Game/__ExternalActors__/Level/0/AX/Z5NXR3MGWPO9XK9Z458BTF
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118487199
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/49/259SCGIO3PW3SW76BBQAUV
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118492206
+ |   |- Actor Package: /Game/__ExternalActors__/Level/3/51/45VCA9OXHNW2VXJQWORP08
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118475185
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/PT/HO6PQWXB04LGCFWRVDODTW
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118479190
+ |   |- Actor Package: /Game/__ExternalActors__/Level/5/Z5/09GD8TZYCK5IM0YXJ27IJE
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118476186
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/MD/84PDQ1EC6J1H6ALA5QUGD3
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1929625911
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/2Z/XUGL1HWPQ4LQ1PH5QWFL2E
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1937506913
+ |   |- Actor Package: /Game/__ExternalActors__/Level/B/LT/5F4O40FEM9O4XFQNOZ8H5B
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1935952912
+ |   |- Actor Package: /Game/__ExternalActors__/Level/B/N8/LHHRLXA2FU2TZ4QNN1HVJE
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1938653914
+ |   |- Actor Package: /Game/__ExternalActors__/Level/B/WC/C2KNB4LVZBGGBWSNMSQ1GD
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118472182
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/05/MFLK18IK5XHZ3HNM8TKH9J
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118475184
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/LS/N9PJ7I6H4YVCN7LR4944NJ
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118484196
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/62/Y4H058CHE2ID1LMQ45F5K5
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118474183
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/9M/BN96JRNA6R8YGDFM7NTZB8
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 41
+ |   |- MinMaxZ: X=-87.679 Y=6972.014
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465425232
+ |   |- Actor Package: /Game/__ExternalActors__/Level/0/KE/FUAW6F169IBDLKSI9X4SGG
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465428239
+ |   |- Actor Package: /Game/__ExternalActors__/Level/0/MY/53B9JWGVJ97ZON56ZK7CDI
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465431244
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/85/QUT2K7G0503NN5S3BDRQIC
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465434249
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/G8/YWW0OHMH1F2E6D8A36UOK0
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465427236
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/LQ/6LNPNDYU0144C5J7U1UAOW
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465430241
+ |   |- Actor Package: /Game/__ExternalActors__/Level/2/9T/7Q131VQ5LD9HKI07NONSZL
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_8469935422819C8101_1135473850
+ |   |- Actor Package: /Game/__ExternalActors__/Level/2/FM/VM5DY82MBXTF63BVGW8OC4
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465431243
+ |   |- Actor Package: /Game/__ExternalActors__/Level/2/NO/Z21GGIKFPCT3FZAG3WCOQ7
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465432245
+ |   |- Actor Package: /Game/__ExternalActors__/Level/2/US/LN747TOEI4SHU13VUDTWM1
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_2065618919
+ |   |- Actor Package: /Game/__ExternalActors__/Level/2/VD/CD57XDQDYMLTIMUSFXLJZ9
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1124251437
+ |   |- Actor Package: /Game/__ExternalActors__/Level/3/GR/EJVR8WVYBBK6QUH1LZ7KYF
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465434250
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/D6/D415YDP6SOAJ0O1B6QWDFI
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465420220
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/X1/9BMOFLLAWAC4KJ771PKE6M
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465436252
+ |   |- Actor Package: /Game/__ExternalActors__/Level/6/66/DBE1CILLHCETK9X8PQ4HFS
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465435251
+ |   |- Actor Package: /Game/__ExternalActors__/Level/6/V2/5I688TSXDVE2ODOQK4H53A
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465428237
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/5F/E6DG149OL0EJSDPXY39IVU
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.CineCameraActor_UAID_8469935422819B8101_1513681669
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/7R/JXXGP6E9C1A881FAXUA374
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_8469935422819B8101_2068657670
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/FB/ILWIANELBC92OY7WCIZ743
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1781561256
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/KN/E3XIDZL8IEX7KVT7A4TUWG
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465429240
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/3D/3VUQ88XNOCT3PONE7YIIGM
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465424228
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/8C/SY6CM5JBNNLPJ52P52J368
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465427235
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/HA/ERQD73I55KSLBG41Q06QWG
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_2127336259
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/1Z/2JG5GPBH593WWSKIQS0VBQ
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465426233
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/32/LKEOWDRSZXCWAJE1QTHTGF
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465430242
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/9P/51WJVSZYXJBJ8CWZ7ATXRI
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465425231
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/G7/I9ZGEUA200OZR29Y3NCGTC
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A78501_1956802003
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/W8/LVT1M5T5CID60ES538E2M2
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_2005806258
+ |   |- Actor Package: /Game/__ExternalActors__/Level/A/T3/1KJZZ9C9AC1D26RDZID53V
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465432246
+ |   |- Actor Package: /Game/__ExternalActors__/Level/A/T9/GSI4ODIXCBMK1IF6RY8ZJU
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465423227
+ |   |- Actor Package: /Game/__ExternalActors__/Level/A/UT/3PZ56B6RYLBGU1T4DFXDAT
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465424230
+ |   |- Actor Package: /Game/__ExternalActors__/Level/B/NA/6NRA6EP7IG9NLJ1WAJLF8F
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465428238
+ |   |- Actor Package: /Game/__ExternalActors__/Level/B/S8/3DNGID1LKR2HQNZZY5ZYL1
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465424229
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/AY/3YTNCHCVCUS4UVK2WGEKBC
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465423226
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/9K/IJ9R712EL25SO74JR3RLXM
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465436253
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/FP/FE46OQUVVI80I4SIQVPS47
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465426234
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/N1/ZYBHCJB6FC7QTECRZOXZW7
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465418218
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/NL/TJS4MZHYPHUHPUUZXLUME8
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1093407436
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/Y9/AZP0TT806WUO1DZ15JD53S
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465433247
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/8S/02GK6S7YXTSDIRTYBSJPVA
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1465433248
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/BE/AYMD35QGA1PD3O4CYUR0VG
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1484517881
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/S5/9ZLXRVLAG3MBLPLD5MMDKD
+ |- [+] Content of Cell MainGrid_L0_X0_Y1
+ |   |- Actor Count: 42
+ |   |- MinMaxZ: X=-8.368 Y=6802.982
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_8469935422811C7F01_1933442203
+ |   |- Actor Package: /Game/__ExternalActors__/Level/0/YV/Q5UIOOFNXQZZ62799ODJR2
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1583635895
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/9W/UG0IEBS9GV74O8HZC68IXJ
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1750575907
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/BP/ZSIN30B60FUFSCUOD8Z31B
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1588913901
+ |   |- Actor Package: /Game/__ExternalActors__/Level/2/FL/0GYOK2NWHLUJ322U1CD5YE
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1278657439
+ |   |- Actor Package: /Game/__ExternalActors__/Level/2/WE/99GYNIR9PDXNAOSLUDC7B8
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1767255908
+ |   |- Actor Package: /Game/__ExternalActors__/Level/3/DZ/1J0T2V9496SU1VOAJ0YUIN
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1291883440
+ |   |- Actor Package: /Game/__ExternalActors__/Level/3/JW/U2FBPS1BXSTZ7BKAIAO9WI
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1586803898
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/2C/HYWKQG3QGJ580KHBQYA5C2
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1571701889
+ |   |- Actor Package: /Game/__ExternalActors__/Level/4/ZN/D0N3ET4H1G06JTKILXHM67
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1299139441
+ |   |- Actor Package: /Game/__ExternalActors__/Level/5/9K/PUEM0GTUD2UUL6WYYL0L66
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1375819450
+ |   |- Actor Package: /Game/__ExternalActors__/Level/5/N0/0O1KXKF3YL44UWCPTNW95G
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1341788446
+ |   |- Actor Package: /Game/__ExternalActors__/Level/6/V0/G1YBVW6999Z02BE643ODP0
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1339200445
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/2E/9QG8EB5KBW3YUQYQDWDNRG
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1582888894
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/B1/VNCQZVOEQTYUWU5QR0TLP8
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1565589884
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/EJ/ZVI4A67C4R2Y7GZ7VKZ453
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1569319887
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/G2/2G51EYN0TODOP11EPMHJDQ
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1941155916
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/OH/MGBM37ISTABN7ZKZSWFVDN
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1308143442
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/R0/DM22CAIPYJ0W0TZRG4W2JS
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1727482906
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/B2/6GRZFXS5EC320EEUQCKGBE
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.CineCameraActor_UAID_846993542281F17C01_1512951525
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/D9/SHDJBEDJ8ZNGBNFTFKVDAX
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1326142444
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/OG/GOLN10XG75JNF15I6JMESV
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1587479899
+ |   |- Actor Package: /Game/__ExternalActors__/Level/8/PT/NHTCUEU34JE8OJYGP53G5Z
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1589787902
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/7X/M4AD6EAM80U2ZB6N81U7R9
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1573668891
+ |   |- Actor Package: /Game/__ExternalActors__/Level/9/IC/A5YGPL0MM3NCCCFZFOW4TX
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1320153443
+ |   |- Actor Package: /Game/__ExternalActors__/Level/A/KN/UYN8IBOFRVRC84UOVW1AT4
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1568295886
+ |   |- Actor Package: /Game/__ExternalActors__/Level/A/RO/MFNZTO3YVWZJTV3Q6PSUN1
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1580413893
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/46/0G01ZSPGIQPWKGN9VCAEWE
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1585876897
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/AX/AET4BJ57HBXJK9VHG139TV
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1164381438
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/OS/0E5ZKUIAVL2HC9X5QTPPWK
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1575623892
+ |   |- Actor Package: /Game/__ExternalActors__/Level/C/OW/423ITVT9NG10S4O76EYDDI
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1572660890
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/1R/BAQP3SRJWK7UAAKU3BW7RH
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1595711904
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/3W/M9JA8KVCNETJPGFMN76FO4
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1567314885
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/7V/7DQYV7QLIPZJNC2LO8DX12
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1348483447
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/CN/0HFQP2OMEW0DCIEXLWWFMZ
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1593870903
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/IO/RWQHOQE9MYBS63YGB9JC2W
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1588237900
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/LA/6IGBK2E6OD5X1F2741HEA4
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1646005905
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/R0/BWUVWBTO3ZMNSTRDAHXYK2
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1570160888
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/5Y/2916IXOPO6J4AO14HKEB0N
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1810584909
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/R1/99XTNL7OPL7951ES87FA5J
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1584814896
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/WW/02GBEC435IN4ZWFCL3M58Q
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1560816883
+ |   |- Actor Package: /Game/__ExternalActors__/Level/E/YU/KFI9XDKL1V53TYSDT7UBK7
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A98501_1373478449
+ |   |- Actor Package: /Game/__ExternalActors__/Level/F/45/O91S5XI6YA2YNHDYHSC4O7
+[+] Content of Grid Level 1
+ |- [+] Content of Cell MainGrid_L1_X0_Y0
+ |   |- Actor Count: 4
+ |   |- MinMaxZ: X=-11437.709 Y=10011.389
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281647F01_1147516876
+ |   |- Actor Package: /Game/__ExternalActors__/Level/1/LZ/HFG5B178KK1EJ3U8Z2M060
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.SpotLight_UAID_846993542281EC8501_1885619145
+ |   |- Actor Package: /Game/__ExternalActors__/Level/6/DF/46UYVJHZZTF1OLAG1XF9TC
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281568101_1424413521
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/8V/M9S74HW88STJ3O2N0VURWS
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.SpotLight_UAID_846993542281EC8501_1156027143
+ |   |- Actor Package: /Game/__ExternalActors__/Level/7/S5/GAYIS0IS7QYLUKOJ0UPRR0
+ |- [+] Content of Cell MainGrid_L1_X-1_Y0
+ |   |- Actor Count: 2
+ |   |- MinMaxZ: X=-44.688 Y=6946.508
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1277320217
+ |   |- Actor Package: /Game/__ExternalActors__/Level/5/L3/1XGUGLAMXR3A4VQQLRV1HF
+ |   |- Actor Path: /Game/Level.Level:PersistentLevel.StaticMeshActor_UAID_846993542281A88501_1118494208
+ |   |- Actor Package: /Game/__ExternalActors__/Level/D/PZ/AXTDX9SZ0PCB8JT5HM54YJ
+[+] Content of Grid Level 2
+
