@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Individual/Blockout.umap",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Clancys/Shared/Bed/Model/lowpolyBedfinal.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Models/MatchstickFrame/JordanLymper_MatchPictureFrame_v002.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Textures/MatchstickFrame/JordanLymper_MatchPictureFrame_lambert1_Height.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Textures/MatchstickFrame/JordanLymper_MatchPictureFrame_lambert1_Metallic.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Textures/MatchstickFrame/JordanLymper_MatchPictureFrame_lambert1_Normal.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Textures/MatchstickFrame/JordanLymper_MatchPictureFrame_lambert1_Roughness.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Textures/MatchstickFrame/JordanLymper_MatchPictureFrame_lambert1_BaseColor.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Textures/MatchstickFrame/JordanLymper_MatchPictureFrame_lambert1_Emissive.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Jordans/Shared/Materials/MatchstickFrame/MatchstickFrame.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Clancys/Shared/Candle/Textures/WallTxt/wall1lowpolyFBX_lambert1_BaseColor.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Clancys/Shared/Candle/Textures/WallTxt/wall1lowpolyFBX_lambert1_Normal.uasset",
+				"C:/Users/Andy/Desktop/FinalRepository/ANIM145-Final/Content/Clancys/Shared/Candle/Textures/WallTxt/wall1lowpolyFBX_lambert1_OcclusionRoughnessMetallic.uasset",
+>>>>>>> cbf9951594e66e20e17727617de1dba45248c8a4
 				"C:/Users/truen/Documents/Unreal Projects/MyProject2/Content/Clancys/Shared/Candle/Textures/CandleFBX_lambert1_Normal.uasset",
 				"C:/Users/truen/Documents/Unreal Projects/MyProject2/Content/Clancys/Shared/Candle/Textures/CandleFBX_lambert1_BaseColor.uasset",
 				"C:/Users/truen/Documents/Unreal Projects/MyProject2/Content/Clancys/Shared/Candle/Materials/Candle_Material.uasset",
