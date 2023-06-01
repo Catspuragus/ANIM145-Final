@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Ignore Clancy's Renders
+Content/Clancys/Individual/Renders MP4/
+Content/Clancys/Individual/TwoCameraRender/
+
 # Compiled Object files
 *.slo
 *.lo
