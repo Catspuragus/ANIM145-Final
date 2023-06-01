@@ -2,8 +2,8 @@
 .vs/
 
 # Ignore Clancy's Renders
-Content/Clancys/Individual/Renders MP4/
-Content/Clancys/Individual/TwoCameraRender/
+Renders MP4/
+TwoCameraRender/
 
 # Compiled Object files
 *.slo
